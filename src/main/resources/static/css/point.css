@@ -1,0 +1,38 @@
+/*鼠标样式*/
+body,
+html {
+    cursor: url(pointercur/正常选择.cur),
+    auto !important;
+}
+
+img {
+    cursor: url(pointercur/正常选择.cur),
+    auto !important;
+}
+
+
+input:hover {
+    cursor: url(pointercur/文本选择.cur),
+    auto;
+!important;
+}
+
+textarea:hover {
+    cursor: url(pointercur/文本选择.cur),
+    auto;
+!important;
+}
+
+/*按钮*/
+button:hover {
+    cursor: url(pointercur/链接选择.cur),
+    auto;
+!important;
+}
+
+/*i标签*/
+i:hover {
+    cursor: url(pointercur/正常选择.cur),
+    auto;
+!important;
+}
