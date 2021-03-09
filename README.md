@@ -12,7 +12,7 @@
 *  Maven 3
 *  JDK 13
 
-** 博客功能：**
+**博客功能：**
 
 ![image](https://user-images.githubusercontent.com/43976687/110488168-30f5f600-8129-11eb-81c0-24632c05eb79.png)
 
